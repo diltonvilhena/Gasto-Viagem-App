@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GastoViagem</string>
+    <string name="distancia">Distância</string>
+    <string name="total_de_quilometros">Total de quilômetros</string>
+    <string name="preco">Preço</string>
+
+
+    <string name="validation_fill_all_fields">Preencha todos os campos.</string>
+</resources>
